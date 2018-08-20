@@ -1,6 +1,6 @@
 var number = 0;
-var result = 1;
 function factorialize(number) {
+	var result = 1;
 	if (number === 0) {
    		result = 1;
   	}
